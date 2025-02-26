@@ -6,7 +6,7 @@
 
 ## Установка
 
-1. Скачайте последнюю версию мода с [Скачать](https://github.com/G3tHx/MT_StartBattleOnKey.git).
+1. Скачайте последнюю версию мода [Скачать](https://github.com/G3tHx/MT_StartBattleOnKey/archive/refs/heads/main.zip).
 2. Распакуйте скачанный архив в папку с установленной игрой. (E:/Games/Tanki)
 
 ## Использование
